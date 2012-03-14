@@ -17,7 +17,7 @@ Let the border be 1/2 of X. The internal whitespace between the M glyph, the dow
 
 ##Usage
 
-Although you may modify this mark any way you like, without restriction, please respect the following guidelines: 
+You should use this mark to identify user input areas which support Markdown-compiled HTML output or to identify general Markdown support. Although you may modify this mark any way you like, without restriction, please respect the following guidelines: 
 
 1. Do not change the aspect ratio of the rounded box enclosure. 
 2. Do not change the border radius of the rounded box enclosure.
