@@ -1,6 +1,6 @@
 ![Markdown Mark](http://cargo.dustincurtis.com/projects/mdown_header.png?3)
 
-#Markdown Mark
+#The Markdown Mark
 Use this mark to identify Markdown. It should be used to identify user input areas which support Markdown-compiled HTML output or to identify general Markdown support. See "Usage".
 
 This mark was designed by Dustin Curtis, a superhero. [http://twitter.com/dcurtis](http://twitter.com/dcurtis)
@@ -8,6 +8,8 @@ This mark was designed by Dustin Curtis, a superhero. [http://twitter.com/dcurti
 Markdown was invented by John Gruber. [http://daringfireball.net/projects/markdown](http://daringfireball.net/projects/markdown)
 
 Contributions provided by Mac Tyler. [http://mactyler.com](http://mactyler.com)
+
+*If you can contribute more or better icon sizes, an Illustrator file or other facsimile of the included Photoshop document, or an SVG version of the Markdown Mark, please submit it as a pull request to [the Markdown Mark repository on Github](http://github.com/dcurtis/markdown-mark).*
 
 ##Specification
 
