@@ -9,7 +9,7 @@ Markdown was invented by John Gruber. [http://daringfireball.net/projects/markdo
 
 Contributions provided by Mac Tyler. [http://mactyler.com](http://mactyler.com)
 
-*If you can contribute more or better icon sizes, an Illustrator file or other facsimile of the included Photoshop document, or an SVG version of the Markdown Mark, please submit it as a pull request to [the Markdown Mark repository on Github](http://github.com/dcurtis/markdown-mark).*
+*If you can contribute more or better icon sizes, an Illustrator file, or any other useful facsimile of the included Photoshop document, please submit it as a pull request to [the Markdown Mark repository on Github](http://github.com/dcurtis/markdown-mark).*
 
 ##Specification
 
