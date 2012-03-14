@@ -1,7 +1,7 @@
 ![Markdown Mark](http://cargo.dustincurtis.com/projects/mdown_header.png?3)
 
 # The Markdown Mark
-Use this mark to identify Markdown. It should be used to identify user input areas which support Markdown-compiled HTML output or to identify general Markdown support. If you are absolutely unable to use an image to display the Markdown Mark, use this unicode aproximation: [M↓]. See "Usage".
+Use this mark to identify Markdown. It should be used to identify user input areas which support Markdown-compiled HTML output or to identify general Markdown support. If you are absolutely unable to use an image to display the Markdown Mark, use this unicode approximation: [M↓]. See "Usage".
 
 This mark was designed by Dustin Curtis, a superhero. [http://twitter.com/dcurtis](http://twitter.com/dcurtis)
 
@@ -33,7 +33,7 @@ If you cannot use an image for the Markdown Mark, use this unicode approximation
 
 __[M↓]__
 
-Do not use this unicode aproximation unless you are absolutely unable to use an image to display the Markdown Mark. 
+Do not use this unicode approximation unless you are absolutely unable to use an image to display the Markdown Mark. 
 
 ## Examples
 
