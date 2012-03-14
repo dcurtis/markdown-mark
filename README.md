@@ -1,4 +1,4 @@
-![Markdown Mark](http://cargo.dustincurtis.com/projects/mdown_header.png?2)
+![Markdown Mark](http://cargo.dustincurtis.com/projects/mdown_header.png?3)
 
 #Markdown Mark
 Use this mark to identify Markdown. It should be used to identify user input areas which support Markdown-compiled HTML output or to identify general Markdown support. See "Usage".
@@ -7,9 +7,11 @@ This mark was designed by Dustin Curtis, a superhero. [http://twitter.com/dcurti
 
 Markdown was invented by John Gruber. [http://daringfireball.net/projects/markdown](http://daringfireball.net/projects/markdown)
 
+Contributions provided by Mac Tyler [http://mactyler.com](http://mactyler.com). 
+
 ##Specification
 
-![Markdown Mark Spec](http://cargo.dustincurtis.com/projects/mdown_spec.png)
+![Markdown Mark Spec](http://cargo.dustincurtis.com/projects/mdown_spec.png?2)
 
 Let the border be 1/2 of X. The internal whitespace between the M glyph, the down arrow, and the box border should be precisely X.
 
@@ -29,11 +31,11 @@ __Note:__ These examples do not yet perfectly conform to the above specification
 
 Use the Markdown Mark to identify a user text input area:
 
-![Markdown Input Box](http://cargo.dustincurtis.com/projects/mdown_input.png)
+![Markdown Input Box](http://cargo.dustincurtis.com/projects/mdown_input.png?2)
 
 Use the Markdown Mark to identify general markdown support:
 
-![Markdown Support Identifier](http://cargo.dustincurtis.com/projects/mdown_box.png)
+![Markdown Support Identifier](http://cargo.dustincurtis.com/projects/mdown_box.png?2)
 
 Other examples:
 
