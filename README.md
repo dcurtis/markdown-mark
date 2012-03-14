@@ -7,8 +7,6 @@ This mark was designed by Dustin Curtis, a superhero. [http://twitter.com/dcurti
 
 Markdown was invented by John Gruber. [http://daringfireball.net/projects/markdown](http://daringfireball.net/projects/markdown)
 
-Contributions provided by Mac Tyler [http://mactyler.com](http://mactyler.com). 
-
 ##Specification
 
 ![Markdown Mark Spec](http://cargo.dustincurtis.com/projects/mdown_spec.png?2)
@@ -45,3 +43,7 @@ Other examples:
 #License
 
 See the included file LICENSE.
+
+#Contributors
+
+Contributions provided by Mac Tyler. [http://mactyler.com](http://mactyler.com)
