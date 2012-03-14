@@ -15,7 +15,7 @@ Contributions provided by Mac Tyler. [http://mactyler.com](http://mactyler.com)
 
 ![Markdown Mark Spec](http://cargo.dustincurtis.com/projects/mdown_spec.png?2)
 
-Let the border be 1/2 of X. The internal whitespace between the M glyph, the down arrow, and the box border should be precisely X.
+Let the border be 1/2 of X. The internal whitespace between the M icon, the down arrow, and the box border should be precisely X.
 
 ##Usage
 
@@ -23,8 +23,8 @@ You should use this mark to identify user input areas which support Markdown-com
 
 1. Do not change the aspect ratio of the rounded box enclosure. 
 2. Do not change the border radius of the rounded box enclosure.
-3. Do not change the relative sizes of the M glyph, the down arrow icon, and the box.
-4. The three elements that make up the mark, including the M glyph, the down arrow icon, and the box enclosure, should always be the same color.
+3. Do not change the relative sizes of the M icon, the down arrow icon, and the box.
+4. The three elements that make up the mark, including the M icon, the down arrow icon, and the box enclosure, should always be the same color.
 4. When possible, please display the mark in a shade of gray, white, or black.
 
 ##Examples
