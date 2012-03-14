@@ -27,6 +27,14 @@ You should use this mark to identify user input areas which support Markdown-com
 4. The three elements that make up the mark, including the M icon, the down arrow icon, and the box enclosure, should always be the same color.
 4. When possible, please display the mark in a shade of gray, white, or black.
 
+###Unicode Approximation
+
+If you cannot use an image for the Markdown Mark, use this unicode approximation: 
+
+__[M↓]__
+
+Do not use this unicode aproximation unless you are absolutely unable to use an image to display the Markdown Mark.
+
 ##Examples
 
 __Note:__ These examples do not yet perfectly conform to the above specifications. They are provided here as placeholders only. 
