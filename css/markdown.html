@@ -4,41 +4,55 @@
         <meta http-equiv="Content-type" content="text/html; charset=utf-8">
         <title>Markdown</title>
         <style type="text/css" media="screen">
-            .markdown-spec {
-                border:10px solid #ccc;
+            .markdown {
+                border:10px solid black;
                 width:188px; height:108px;
                 border-radius:15px;
                 position:relative;
                 -webkit-font-smoothing:antialiased;
             }
-            .markdown-spec:before {
-                color:#ccc;
+            .markdown:before {
+                color:black;
                 font:bold 100px "Gill Sans";
                 content:"M";
                 position:absolute;
                 top:-4px;
                 left:12px;
             }
-            .markdown-spec .stem {
-                border:10px solid #ccc;
+            .markdown .stem {
+                border:10px solid black;
                 position:absolute;
                 height:30px;
                 right:34px;
                 top:20px;
             }
-            .markdown-spec .arrow {width:0;
+            .markdown .arrow {
+                width:0;
                 height:0;
                 position:absolute;
                 bottom:0px;
                 right:14px;
                 border-style:solid;
                 border-width:34px 30px 20px 30px;
-                border-color:#ccc transparent transparent transparent;
+                border-color:black transparent transparent transparent;
+            }
+
+            .markdown.spec {
+                border-color:#ccc;
+            }
+            .markdown.spec:before {
+                color:#ccc;
+            }
+            .markdown.spec .stem {
+                border-color:#ccc;
+            }
+            .markdown.spec .arrow {
+                border-top-color:#ccc;
             }
         </style>
     </head>
     <body>
-        <div class="markdown-spec">
+        <div class="markdown spec">
             <div class="stem"></div>
             <div class="arrow"></div>
         </div>
