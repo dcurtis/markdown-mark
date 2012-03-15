@@ -5,14 +5,14 @@
         <title>Markdown</title>
         <style type="text/css" media="screen">
             .markdown {
-                border:10px solid black;
+                position:relative;
+                border:10px solid gray;
                 width:188px; height:108px;
                 border-radius:15px;
-                position:relative;
                 -webkit-font-smoothing:antialiased;
             }
             .markdown:before {
-                color:black;
+                color:gray;
                 font:bold 100px "Gill Sans";
                 content:"M";
                 position:absolute;
@@ -20,7 +20,7 @@
                 left:12px;
             }
             .markdown .stem {
-                border:10px solid black;
+                border:10px solid gray;
                 position:absolute;
                 height:30px;
                 right:34px;
@@ -34,7 +34,7 @@
                 right:14px;
                 border-style:solid;
                 border-width:34px 30px 20px 30px;
-                border-color:black transparent transparent transparent;
+                border-color:gray transparent transparent transparent;
             }
 
             .markdown.spec {
@@ -49,12 +49,37 @@
             .markdown.spec .arrow {
                 border-top-color:#ccc;
             }
+
+            .markdown.cutout {
+                border-color:black;
+            }
+            .markdown.cutout:before {
+                color:black;
+            }
+            .markdown.cutout .stem {
+                border-color:black;
+            }
+            .markdown.cutout .arrow {
+                border-top-color:black;
+            }
+
+            .positioner {
+                position:absolute;
+                top:8px;
+                left:269px;
+            }
         </style>
     </head>
     <body>
         <div class="markdown spec">
             <div class="stem"></div>
             <div class="arrow"></div>
+        </div>
+        <div class="positioner">
+            <div class="markdown cutout">
+                <div class="stem"></div>
+                <div class="arrow"></div>
+            </div>
         </div>
     </body>
 </html>
