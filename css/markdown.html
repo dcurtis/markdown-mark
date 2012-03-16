@@ -63,10 +63,30 @@
                 border-top-color:black;
             }
 
-            .positioner {
+            .markdown.solid {
+                background-color:black;
+                border-color:black;
+            }
+            .markdown.solid:before {
+                color:white;
+            }
+            .markdown.solid .stem {
+                border-color:white;
+            }
+            .markdown.solid .arrow {
+                border-top-color:white;
+            }
+
+            .cutout-positioner {
                 position:absolute;
                 top:8px;
                 left:269px;
+            }
+            
+            .solid-positioner {
+                position:absolute;
+                top:8px;
+                left:530px;
             }
         </style>
     </head>
@@ -75,8 +95,14 @@
             <div class="stem"></div>
             <div class="arrow"></div>
         </div>
-        <div class="positioner">
+        <div class="cutout-positioner">
             <div class="markdown cutout">
+                <div class="stem"></div>
+                <div class="arrow"></div>
+            </div>
+        </div>
+        <div class="solid-positioner">
+            <div class="markdown solid">
                 <div class="stem"></div>
                 <div class="arrow"></div>
             </div>
