@@ -37,15 +37,13 @@ Do not use this unicode approximation unless you are absolutely unable to use an
 
 ## Examples
 
-__Note:__ These examples do not yet perfectly conform to the above specifications. They are provided here as placeholders only. 
-
 Use the Markdown Mark to identify a user text input area:
 
-![Markdown Input Box](http://cargo.dustincurtis.com/projects/mdown_input.png?2)
+![Markdown Input Box](http://cargo.dustincurtis.com/projects/mdown_input.png?3)
 
 Use the Markdown Mark to identify general markdown support:
 
-![Markdown Support Identifier](http://cargo.dustincurtis.com/projects/mdown_box.png?2)
+![Markdown Support Identifier](http://cargo.dustincurtis.com/projects/mdown_box.png?3)
 
 Other examples:
 
