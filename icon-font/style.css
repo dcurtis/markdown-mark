@@ -1,0 +1,31 @@
+@font-face {
+	font-family: 'markdown';
+	src:url('fonts/markdown.eot?-6fnbp5');
+	src:url('fonts/markdown.eot?#iefix-6fnbp5') format('embedded-opentype'),
+		url('fonts/markdown.woff?-6fnbp5') format('woff'),
+		url('fonts/markdown.ttf?-6fnbp5') format('truetype'),
+		url('fonts/markdown.svg?-6fnbp5#markdown') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="markdown-"], [class*=" markdown-"] {
+	font-family: 'markdown';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.markdown-mark:before {
+	content: "\e600";
+}
+.markdown-mark-solid:before {
+	content: "\e601";
+}
