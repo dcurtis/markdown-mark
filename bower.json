@@ -1,0 +1,21 @@
+{
+  "name": "markdown-mark",
+  "version": "1.0.0",
+  "homepage": "https://github.com/markdown-extended/markdown-mark",
+  "authors": [
+    "dcurtis <hi@dustincurtis.com>"
+  ],
+  "description": "Marks to identify Markdown",
+  "main": "svg/markdown-mark.svg",
+  "keywords": [
+    "markdown"
+  ],
+  "license": "Public domain",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
