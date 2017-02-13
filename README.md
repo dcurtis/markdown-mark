@@ -47,6 +47,10 @@ Use the Markdown Mark to identify general markdown support:
 
 ![Markdown Support Identifier](https://cargo.dustincurtis.com/projects/mdown-mark-box.png)
 
+# Other
+
+You can buy Markdown Mark stickers from [Whipps Sticker Co](https://whippsstickerco.com/products/markdown-sticker-for-macbook-macbook-pro-macbook-air-and-other-apple-devices).
+
 # License
 
 See the included file LICENSE.
