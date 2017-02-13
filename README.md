@@ -15,7 +15,7 @@ Contributions to the Markdown Mark were provided by Mac Tyler. [http://mactyler.
 
 ## Specification
 
-![Markdown Mark Spec](http://cargo.dustincurtis.com/projects/markdown-mark-spec.png?4)
+![Markdown Mark Spec](https://cargo.dustincurtis.com/projects/mdown-mark-spec.png?3)
 
 For the outline version of the mark, the border should be &frac12; of X. The internal whitespace between the M icon, the down arrow, and the box border should be precisely X.
 
