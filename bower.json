@@ -1,11 +1,11 @@
 {
   "name": "markdown-mark",
-  "version": "1.0.0",
-  "homepage": "https://github.com/markdown-extended/markdown-mark",
+  "version": "1.2.0",
+  "homepage": "https://github.com/dcurtis/markdown-mark",
   "authors": [
     "dcurtis <hi@dustincurtis.com>"
   ],
-  "description": "Marks to identify Markdown",
+  "description": "Mark to identify Markdown",
   "main": "svg/markdown-mark.svg",
   "keywords": [
     "markdown"
