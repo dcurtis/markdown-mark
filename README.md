@@ -1,27 +1,27 @@
-![Markdown Mark](http://cargo.dustincurtis.com/projects/mdown-header.png?4)
+![Markdown Mark](https://cargo.dustincurtis.com/projects/markdown/mdown-header.png?5)
 
 # The Markdown Mark
-Use this mark to identify Markdown. It should be used to identify user input areas which support Markdown-compiled HTML output or to identify general Markdown support. If you are unable to use an image to display the Markdown Mark, use this unicode approximation: [M↓]. See "Usage".
+Use this mark to identify Markdown. It should be used to identify user input areas which support Markdown-compiled HTML output or to identify general Markdown support. If you are unable to use an image to display the Markdown Mark, use this unicode approximation: __[M⬇]__. See "Usage".
 
-The files included in this repository have been carefully [pixel-fitted](https://dcurt.is/pixel-fitting) and are designed to be viewed at precisely the resolutions indicated. Changing the display sizes of the files could lead to unintentional antialiasing. For more information, please see: [https://dcurt.is/pixel-fitting](https://dcurt.is/pixel-fitting).
+The raster files included in this repository have been carefully [pixel-fitted](https://dcurt.is/pixel-fitting) and are designed to be presented at precisely the resolutions indicated. Changing the display sizes of the raster files could lead to unintentional antialiasing.
 
-This mark was designed by Dustin Curtis. [http://twitter.com/dcurtis](http://twitter.com/dcurtis)
+This mark was designed by [Dustin Curtis](https://twitter.com/dcurtis). [https://dustincurtis.com](https://dustincurtis.com)
 
 Markdown was invented by John Gruber. [http://daringfireball.net/projects/markdown](http://daringfireball.net/projects/markdown)
 
-Contributions to the Markdown Mark were provided by Mac Tyler. [http://mactyler.com](http://mactyler.com)
+Important contributions to the Markdown Mark were provided by Mac Tyler. [http://mactyler.com](http://mactyler.com)
 
-*If you can contribute additional format facsimiles of the included Photoshop reference document, please submit them as pull requests to the [Markdown Mark repository on Github](http://github.com/dcurtis/markdown-mark).*
+*If you are able to contribute additional format facsimiles of the included Photoshop reference document, please submit them as pull requests to the [Markdown Mark repository on Github](https://github.com/dcurtis/markdown-mark).*
 
 ## Specification
 
-![Markdown Mark Spec](https://cargo.dustincurtis.com/projects/mdown-mark-spec.png?3)
+<img src="https://cargo.dustincurtis.com/projects/markdown/mdown-mark-spec.png?5" width="230" alt="Markdown Mark Spec" style="max-width: 230px;">
 
-For the outline version of the mark, the border should be &frac12; of X. The internal whitespace between the M icon, the down arrow, and the box border should be precisely X.
+Let the negative space between the M glyph, the down arrow icon, and the border of the enclosure box be __&times;__. For the outline version of the mark, the border width should be &frac12; of __&times;__.
 
 ## Usage
 
-You should use this mark to identify user input areas which support Markdown-compiled HTML output or to identify general Markdown support. Although you may modify this mark any way you like, without restriction, please respect the following guidelines:
+Use this mark to identify user input areas which support Markdown-compiled HTML output or to identify general Markdown support. Although you may modify this mark any way you like, without restriction, please respect the following guidelines:
 
 1. Do not change the aspect ratio of the rounded box enclosure.
 2. Do not change the border radius of the rounded box enclosure.
@@ -31,25 +31,19 @@ You should use this mark to identify user input areas which support Markdown-com
 
 ### Unicode Approximation
 
-If you cannot use an image for the Markdown Mark, use this unicode approximation:
+If you cannot use an image for the Markdown Mark, use this unicode approximation (the letter M and the "downwards black arrow, U+2B07" unicode character):
 
-__[M↓]__
-
-(Do not use this unicode approximation unless you are absolutely unable to use an image to display the Markdown Mark.)
+__[M⬇]__
 
 ## Examples
 
 Use the Markdown Mark to identify a user text input area:
 
-![Markdown Input Box](https://cargo.dustincurtis.com/projects/mdown-mark-write.png)
+![Markdown Input Box](https://cargo.dustincurtis.com/projects/markdown/mdown-mark-write.png?5)
 
 Use the Markdown Mark to identify general markdown support:
 
-![Markdown Support Identifier](https://cargo.dustincurtis.com/projects/mdown-mark-box.png)
-
-# Other
-
-You can buy Markdown Mark stickers from [Whipps Sticker Co](https://whippsstickerco.com/products/markdown-sticker-for-macbook-macbook-pro-macbook-air-and-other-apple-devices).
+<img src="https://cargo.dustincurtis.com/projects/markdown/mdown-mark-box.png?5" width="543" alt="Markdown Support Identifier" style="max-width: 543px;">
 
 # License
 
