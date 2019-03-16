@@ -3,15 +3,13 @@
 # The Markdown Mark
 Use this mark to identify Markdown. It should be used to identify user input areas which support Markdown-compiled HTML output or to identify general Markdown support. If you are unable to use an image to display the Markdown Mark, use this unicode approximation: __[M⬇]__. See "Usage".
 
-The raster files included in this repository have been carefully [pixel-fitted](https://dcurt.is/pixel-fitting) and are designed to be presented at precisely the resolutions indicated. Changing the display sizes of the raster files could lead to unintentional antialiasing.
-
 This mark was designed by [Dustin Curtis](https://twitter.com/dcurtis). [https://dustincurtis.com](https://dustincurtis.com)
 
 Markdown was invented by John Gruber. [http://daringfireball.net/projects/markdown](http://daringfireball.net/projects/markdown)
 
 Important contributions to the Markdown Mark were provided by Mac Tyler. [http://mactyler.com](http://mactyler.com)
 
-*If you are able to contribute additional format facsimiles of the included Photoshop reference document, please submit them as pull requests to the [Markdown Mark repository on Github](https://github.com/dcurtis/markdown-mark).*
+*If you are able to contribute additional format facsimiles of the included reference documents, please submit them as pull requests to the [Markdown Mark repository on GitHub](https://github.com/dcurtis/markdown-mark).*
 
 ## Specification
 
@@ -31,7 +29,7 @@ Use this mark to identify user input areas which support Markdown-compiled HTML 
 
 ### Unicode Approximation
 
-If you cannot use an image for the Markdown Mark, use this unicode approximation (the letter M and the "downwards black arrow, U+2B07" unicode character):
+If you cannot use an image for the Markdown Mark, use this unicode approximation (the letter M and the "Downwards Black Arrow" U+2B07 unicode character):
 
 __[M⬇]__
 
@@ -47,4 +45,4 @@ Use the Markdown Mark to identify general markdown support:
 
 # License
 
-See the included file LICENSE.
+The Markdown Mark has been dedicated to the public domain. See the included file [LICENSE](LICENSE).
