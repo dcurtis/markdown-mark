@@ -5,13 +5,13 @@ Use this mark to identify Markdown. It can be used to identify user input areas 
 
 The Markdown Mark was designed and built by [Dustin Curtis](https://twitter.com/dcurtis) ([https://dustincurtis.com](https://dustincurtis.com)). Important contributions were provided by Mac Tyler ([http://mactyler.com](http://mactyler.com)).
 
-Markdown was developed by [John Gruber](https://daringfireball.net)([https://daringfireball.net/projects/markdown/](https://daringfireball.net/projects/markdown/)) in collaboration with [Aaron Swartz](http://www.aaronsw.com).
+Markdown was developed by [John Gruber](https://daringfireball.net) ([https://daringfireball.net/projects/markdown/](https://daringfireball.net/projects/markdown/)) in collaboration with [Aaron Swartz](http://www.aaronsw.com).
 
 ## Design
 
 <img src="https://cargo.dustincurtis.com/projects/markdown/specimen.png?2" width="500" alt="Markdown Mark Specimen" style="max-width: 500px;">
 
-The "M" glyph was inspired by the the capital letter M of Gill Sans Bold, a typeface designed by Eric Gill in 1928. The down arrow icon was carefully constructed to proportionally complement the "M" glyph. The border radius used for the rounded enclosure box was chosen so that the box looks natural at both small and large sizes.
+The "M" glyph was inspired by the the capital letter M of Gill Sans Bold, a typeface designed by Eric Gill in 1928. The down arrow icon was constructed to proportionally complement the "M" glyph. The border radius used for the rounded enclosure box was chosen so that the box looks natural at both small and large sizes.
 
 ## Usage
 
