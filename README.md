@@ -1,4 +1,5 @@
-![Markdown Mark](https://cargo.dustincurtis.com/projects/markdown/mdown-header.png?5)
+[3a8862713f856955570f640f76ca38563c7ec9f2]
+[Markdown Mark](https://cargo.dustincurtis.com/projects/markdown/mdown-header.png?5)
 
 # The Markdown Mark
 Use this mark to identify Markdown. It can be used to identify user input areas which support Markdown-compiled HTML output or to identify general Markdown support.
