@@ -1,4 +1,4 @@
-![Markdown Mark](https://cargo.dustincurtis.com/projects/markdown/mdown-header.png?5)
+![Markdown Mark](https://cargo.dustincurtis.com/projects/markdown/markdown-mark-header-updated-2021.png?6)
 
 # The Markdown Mark
 Use this mark to identify Markdown. It can be used to identify user input areas which support Markdown-compiled HTML output or to identify general Markdown support.
@@ -9,7 +9,7 @@ Markdown was developed by [John Gruber](https://daringfireball.net) ([https://da
 
 ## Design
 
-<img src="https://cargo.dustincurtis.com/projects/markdown/specimen.png?2" width="500" alt="Markdown Mark Specimen" style="max-width: 500px;">
+<img src="https://cargo.dustincurtis.com/projects/markdown/specimen.png?4" width="500" alt="Markdown Mark Specimen" style="max-width: 500px;">
 
 The "M" glyph was inspired by the the capital letter M of Gill Sans Bold, a typeface designed by Eric Gill in 1928. The down arrow icon was constructed to proportionally complement the "M" glyph. The border radius used for the rounded enclosure box was chosen so that the box looks natural at both small and large sizes.
 
@@ -26,15 +26,9 @@ Although you may modify this mark any way you like, without restriction, we ask 
 3. Please show the three elements which make up the mark, including the "M" glyph, the down arrow icon, and the box enclosure, in the same color.
 4. When possible, please display the mark in a shade of gray, white, or black.
 
-### Unicode Approximation
-
-If you cannot use an image for the Markdown Mark, use this unicode approximation (the letter M and the "Downwards Black Arrow" U+2B07 unicode character between square brackets):
-
-__[M⬇]__
-
 ## Specification
 
-<img src="https://cargo.dustincurtis.com/projects/markdown/mdown-mark-spec-black.png?1" width="230" alt="Markdown Mark Spec" style="max-width: 230px;">
+<img src="https://cargo.dustincurtis.com/projects/markdown/mdown-mark-spec-black-2021.png?3" width="230" alt="Markdown Mark Spec" style="max-width: 230px;">
 
 Let the stem width of the down arrow icon be __&times;__. The vertical lines which make up the "M" glyph shall have a width of __&times;__. The negative space between the "M" glyph, the down arrow icon, and the border of the enclosure box shall be __&times;__.
 
